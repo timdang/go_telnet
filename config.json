@@ -1,0 +1,5 @@
+{
+  "telnetPort": ":2223",
+  "httpPort": ":8080",
+  "logFileLocation": "/tmp/log"
+}
